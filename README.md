@@ -1,5 +1,11 @@
 ## 2024 Steam Project
 
+It is an artificial intelligence conversation model that can run on the web.
+
+
+
+
+
 
 created a web page using flask.
 
